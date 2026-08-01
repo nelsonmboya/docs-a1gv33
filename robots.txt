@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-73d3dk.ligaciputra66vfa.lat/sitemap.xml
